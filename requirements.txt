@@ -4,3 +4,5 @@ matplotlib
 numpy
 jupyter
 faker
+pgmpy
+networkx
