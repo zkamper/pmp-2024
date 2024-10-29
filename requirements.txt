@@ -6,3 +6,5 @@ jupyter
 faker
 pgmpy
 networkx
+seaborn
+hmmlearn
